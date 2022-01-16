@@ -1,27 +1,13 @@
 <hr>
-<div style="display:flex">
-<div>
-<h1> Prazer, Dan 👋 </h1>
-<ul style="text-align: left;list-style-position: inside;list-style:none;">
-<li>
-<a href="https://dannhz.github.io" target="_blank" ><img src="https://img.shields.io/badge/GitHub%20Pages-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-</li>
-<li>
+
+## Prazer, Dan 👋.
+
+<a href="https://dannhz.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Pages-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 <a href="mailto:me.dann010@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</li>
-<li>
 <a href="https://www.linkedin.com/in/danilo-caetano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</li>
-<li>
-<a href="https://www.artstation.com/dannhz" target="_blank"><img src="https://img.shields.io/badge/artstation-171717?style=for-the-badge&logo=artstation&logoColor=13aff0" target="_blank"></a>
-</li>
-</ul> 
-</div>
-<div style="position=relative;background-color:#000000">
-<img src="imgs/cartoon2.png" width=160px >
-<img src="imgs/smoke-anim.gif" width=20px style="position:absolute; left:249px; top: 150px; mix-blend-mode: screen">
-</div>
-</div>
+<a href="https://www.artstation.com/dannhz" target="_blank"><img src="https://img.shields.io/badge/artstation-171717?style=for-the-badge&logo=artstation&logoColor=13aff0" target="_blank"></a> 
+
+
 
 
 Apenas um mero estudante com afinidade em desenvolvimento Back-end.
